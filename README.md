@@ -1,6 +1,6 @@
 # Creative Golf Landing Page
 
-![Golf Landing Page](assets/img/thumbnail.JPG)
+![Golf Landing Page](assets/img/thumnail.JPG)
 
 ## Live Demo
 
